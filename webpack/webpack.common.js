@@ -5,7 +5,7 @@ const { webpackPluginTevm } = require('@tevm/webpack-plugin')
 const webpack = require('webpack')
 
 module.exports = {
-  entry: ['./src/scripts/game.ts', './webpack/credits.js'],
+  entry: ['./src/scripts/game.ts'],
   output: {
     path: path.resolve(__dirname, '../dist'),
     filename: '[name].bundle.js',

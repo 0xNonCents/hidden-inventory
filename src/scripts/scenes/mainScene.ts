@@ -73,7 +73,7 @@ export default class MainScene extends Phaser.Scene {
   }
 
   preload() {
-    this.load.audio('bell', 'assets/sounds/bell.wav')
+    this.load.audio('bell', 'assets/sounds/bell.mp3')
   }
   async create() {
     var graphics = this.add.graphics()
