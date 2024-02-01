@@ -1,7 +1,7 @@
 {
-  "name": "phaser-project-template",
-  "version": "3.55.2",
-  "description": "Phaser 3 starter template with TypeScript and webpack.",
+  "name": "hidden-inventory",
+  "version": "0.0.1",
+  "description": "",
   "homepage": "https://github.com/yandeu/phaser-project-template#readme",
   "main": "index.js",
   "scripts": {
